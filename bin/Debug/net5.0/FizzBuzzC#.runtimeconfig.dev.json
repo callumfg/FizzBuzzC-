@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\calgri\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\calgri\\.nuget\\packages"
+    ]
+  }
+}

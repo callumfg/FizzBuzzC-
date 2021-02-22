@@ -1,0 +1,16 @@
+C:\Users\calgri\Training\FizzBuzzC#\bin\Debug\net5.0\FizzBuzzC#.exe
+C:\Users\calgri\Training\FizzBuzzC#\bin\Debug\net5.0\FizzBuzzC#.deps.json
+C:\Users\calgri\Training\FizzBuzzC#\bin\Debug\net5.0\FizzBuzzC#.runtimeconfig.json
+C:\Users\calgri\Training\FizzBuzzC#\bin\Debug\net5.0\FizzBuzzC#.runtimeconfig.dev.json
+C:\Users\calgri\Training\FizzBuzzC#\bin\Debug\net5.0\FizzBuzzC#.dll
+C:\Users\calgri\Training\FizzBuzzC#\bin\Debug\net5.0\ref\FizzBuzzC#.dll
+C:\Users\calgri\Training\FizzBuzzC#\bin\Debug\net5.0\FizzBuzzC#.pdb
+C:\Users\calgri\Training\FizzBuzzC#\obj\Debug\net5.0\FizzBuzzC#.csprojAssemblyReference.cache
+C:\Users\calgri\Training\FizzBuzzC#\obj\Debug\net5.0\FizzBuzzC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\calgri\Training\FizzBuzzC#\obj\Debug\net5.0\FizzBuzzC#.AssemblyInfoInputs.cache
+C:\Users\calgri\Training\FizzBuzzC#\obj\Debug\net5.0\FizzBuzzC#.AssemblyInfo.cs
+C:\Users\calgri\Training\FizzBuzzC#\obj\Debug\net5.0\FizzBuzzC#.csproj.CoreCompileInputs.cache
+C:\Users\calgri\Training\FizzBuzzC#\obj\Debug\net5.0\FizzBuzzC#.dll
+C:\Users\calgri\Training\FizzBuzzC#\obj\Debug\net5.0\ref\FizzBuzzC#.dll
+C:\Users\calgri\Training\FizzBuzzC#\obj\Debug\net5.0\FizzBuzzC#.pdb
+C:\Users\calgri\Training\FizzBuzzC#\obj\Debug\net5.0\FizzBuzzC#.genruntimeconfig.cache
